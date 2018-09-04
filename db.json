@@ -37,14 +37,14 @@
         "building_name": "A4",
         "project_name": "Unnathi Woods - Phase 1",
         "building_grievance_count": 0,
-        "is_builder_employee": "true"
+        "is_builder_employee": "false"
       },
       {
         "building_id": 6,
         "building_name": "B2",
         "project_name": "Unnathi Woods - Phase 2",
         "building_grievance_count": 0,
-        "is_builder_employee": "true"
+        "is_builder_employee": "false"
       },
       {
         "building_id": 22,
