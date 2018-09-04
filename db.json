@@ -1,4 +1,66 @@
-
 {
-
+	"manager-dashboard":{
+  "success": true,
+  "data": {
+    "user_id": 32,
+    "role_id": 7,
+    "first_name": "sooraj",
+    "middle_name": null,
+    "last_name": null,
+    "email": "pawan.insomniacs@gmail.com",
+    "username": "pawqan1231",
+    "mobile_no": "8523697415",
+    "is_mobile_verified": 0,
+    "is_mobile_visible": 1,
+    "gender": 0,
+    "dob": "2018-05-06",
+    "profession": "Engineer",
+    "profession_id": 4,
+    "is_profession_visible": 1,
+    "profile_img": null,
+    "password": "$2y$10$S/oSBoupxfqoX8vvEMm2KOmkSmhmzN8VkWPixpCw18lyIsywiPoAW",
+    "status": 1,
+    "completed": 1,
+    "is_deleted": 0,
+    "project_id": null,
+    "building_id": null,
+    "buildings": [
+      {
+        "building_id": 1,
+        "building_name": "A2",
+        "project_name": "Unnathi Woods - Phase 1",
+        "building_grievance_count": 0,
+        "is_builder_employee": "true"
+      },
+      {
+        "building_id": 2,
+        "building_name": "A4",
+        "project_name": "Unnathi Woods - Phase 1",
+        "building_grievance_count": 0,
+        "is_builder_employee": "true"
+      },
+      {
+        "building_id": 6,
+        "building_name": "B2",
+        "project_name": "Unnathi Woods - Phase 2",
+        "building_grievance_count": 0,
+        "is_builder_employee": "true"
+      },
+      {
+        "building_id": 22,
+        "building_name": "G2",
+        "project_name": "Unnathi Greens - Phase 7",
+        "building_grievance_count": 0,
+        "is_builder_employee": "true"
+      },
+      {
+        "building_id": 76,
+        "building_name": "G2",
+        "project_name": "Unnathi Woods - Phase 7(A)",
+        "building_grievance_count": 103,
+        "is_builder_employee": "true"
+      }
+    ]
+  }
+}
 }
